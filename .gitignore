@@ -1,0 +1,15 @@
+# Net
+.vs/
+*/bin/
+*/obj/
+*.user
+
+# Frontend
+node_modules/
+dist/
+.angular/
+package-lock.json
+
+# Misc
+.DS_Store
+.idea/
